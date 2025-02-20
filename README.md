@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Gustavo Alves
 - 👀 I’m interested in data science and software devolopment
 - 🌱 I’m currently learning phyton 
-- 💞️ I’m looking to collaborate on projects and opportunities to improve my programming learning and practice
+- 💞️ I’m looking to collaborate on projects and opportunities to improve and practice as a dev Back-End
 - 📫 How to reach me: gustavoalvesuf@gmail.com / linkedin : https://www.linkedin.com/in/gustavo-pietro-alves-nascimento/
 
 
